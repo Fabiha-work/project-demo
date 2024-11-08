@@ -2,4 +2,4 @@
 
 This is my first Git repository.
 <br>
-Author- Fabiha Parveen
+Author- Fabiha Parveen Malik
